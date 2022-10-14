@@ -1,6 +1,6 @@
-# TSN_ANDROID_DEMO_HELLO
+# Rudenko Kirill VTiP-402
 Простейшая программа суммы двух цифр на Android
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/harvey133/scrennt123/blob/main/screenshotlab1.png)
 
-https://www.youtube.com/watch?v=PMYmKEhbh0s
+
